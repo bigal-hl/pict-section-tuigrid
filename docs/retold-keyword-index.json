@@ -1,6 +1,7 @@
 {
-	"Generated": "2026-04-10T17:26:04.334Z",
-	"DocumentCount": 0,
+	"Generated": "2026-05-22T05:46:13.990Z",
+	"Mode": "module",
+	"DocumentCount": 5,
 	"LunrIndex": {
 		"version": "2.3.9",
 		"fields": [
@@ -9,11 +10,5249 @@
 			"group",
 			"body"
 		],
-		"fieldVectors": [],
-		"invertedIndex": [],
+		"fieldVectors": [
+			[
+				"title/README.md",
+				[
+					0,
+					4.157,
+					1,
+					3.677,
+					2,
+					3.939
+				]
+			],
+			[
+				"module/README.md",
+				[
+					0,
+					2.209,
+					1,
+					1.954,
+					2,
+					2.094
+				]
+			],
+			[
+				"group/README.md",
+				[]
+			],
+			[
+				"body/README.md",
+				[
+					0,
+					0.872,
+					1,
+					0.422,
+					2,
+					0.606,
+					3,
+					0.54,
+					4,
+					0.582,
+					5,
+					0.47,
+					6,
+					0.47,
+					7,
+					0.551,
+					8,
+					0.142,
+					9,
+					0.524,
+					10,
+					2.008,
+					11,
+					1.063,
+					12,
+					0.781,
+					13,
+					0.54,
+					14,
+					0.551,
+					15,
+					0.503,
+					16,
+					0.945,
+					17,
+					0.945,
+					18,
+					1.497,
+					19,
+					0.47,
+					20,
+					0.524,
+					21,
+					0.417,
+					22,
+					0.945,
+					23,
+					0.945,
+					24,
+					0.781,
+					25,
+					0.582,
+					26,
+					0.781,
+					27,
+					1.497,
+					28,
+					1.497,
+					29,
+					0.945,
+					30,
+					1.431,
+					31,
+					1.497,
+					32,
+					1.497,
+					33,
+					2.008,
+					34,
+					0.582,
+					35,
+					0.781,
+					36,
+					0.781,
+					37,
+					0.781,
+					38,
+					0.945,
+					39,
+					0.945,
+					40,
+					0.945,
+					41,
+					0.881,
+					42,
+					0.582,
+					43,
+					0.417,
+					44,
+					0.945,
+					45,
+					0.881,
+					46,
+					0.582,
+					47,
+					1.268,
+					48,
+					0.47,
+					49,
+					0.582,
+					50,
+					0.582,
+					51,
+					0.881,
+					52,
+					1.268,
+					53,
+					2.008,
+					54,
+					0.582,
+					55,
+					0.417,
+					56,
+					0.945,
+					57,
+					1.497,
+					58,
+					0.881,
+					59,
+					0.781,
+					60,
+					0.945,
+					61,
+					0.618,
+					62,
+					0.781,
+					63,
+					0.47,
+					64,
+					1.497,
+					65,
+					1.497,
+					66,
+					1.268,
+					67,
+					0.582,
+					68,
+					0.417,
+					69,
+					0.311,
+					70,
+					0.47,
+					71,
+					0.945,
+					72,
+					0.582,
+					73,
+					1.497,
+					74,
+					0.417,
+					75,
+					0.47,
+					76,
+					0.881,
+					77,
+					0.945,
+					78,
+					1.497,
+					79,
+					1.497,
+					80,
+					0.582,
+					81,
+					0.311,
+					82,
+					0.945,
+					83,
+					1.497,
+					84,
+					0.582,
+					85,
+					0.781,
+					86,
+					0.582,
+					87,
+					0.582,
+					88,
+					0.582,
+					89,
+					0.945,
+					90,
+					0.311,
+					91,
+					1.497,
+					92,
+					0.945,
+					93,
+					0.582,
+					94,
+					1.268,
+					95,
+					0.945,
+					96,
+					1.497,
+					97,
+					1.497,
+					98,
+					0.945,
+					99,
+					1.497,
+					100,
+					0.945,
+					101,
+					1.497,
+					102,
+					1.497,
+					103,
+					0.311,
+					104,
+					0.945,
+					105,
+					1.497,
+					106,
+					2.008,
+					107,
+					0.945,
+					108,
+					1.497,
+					109,
+					0.945,
+					110,
+					1.497,
+					111,
+					1.497,
+					112,
+					1.497,
+					113,
+					1.497,
+					114,
+					0.945,
+					115,
+					0.582,
+					116,
+					0.945,
+					117,
+					0.264,
+					118,
+					0.094,
+					119,
+					0.945,
+					120,
+					0.945,
+					121,
+					0.582,
+					122,
+					1.497,
+					123,
+					0.582
+				]
+			],
+			[
+				"title/_cover.md",
+				[
+					0,
+					4.157,
+					1,
+					3.677,
+					2,
+					3.939
+				]
+			],
+			[
+				"module/_cover.md",
+				[
+					0,
+					2.209,
+					1,
+					1.954,
+					2,
+					2.094
+				]
+			],
+			[
+				"group/_cover.md",
+				[]
+			],
+			[
+				"body/_cover.md",
+				[
+					0,
+					0.856,
+					1,
+					0.558,
+					2,
+					0.598,
+					3,
+					0.411,
+					4,
+					0.77,
+					5,
+					0.411,
+					6,
+					0.411,
+					7,
+					0.498,
+					8,
+					0.138,
+					9,
+					0.536,
+					11,
+					0.934,
+					12,
+					0.934,
+					13,
+					0.558,
+					14,
+					0.536,
+					15,
+					0.536,
+					16,
+					1.516,
+					19,
+					0.411,
+					20,
+					0.536,
+					21,
+					0.498,
+					22,
+					1.25,
+					23,
+					1.25,
+					24,
+					0.77,
+					43,
+					0.411,
+					48,
+					0.411,
+					51,
+					0.77,
+					55,
+					0.411,
+					61,
+					0.498,
+					63,
+					0.411,
+					66,
+					1.25,
+					68,
+					0.498,
+					69,
+					0.411,
+					70,
+					0.498,
+					74,
+					0.498,
+					75,
+					0.411,
+					81,
+					0.498,
+					85,
+					0.77,
+					86,
+					0.77,
+					88,
+					0.77,
+					89,
+					1.25,
+					90,
+					0.411,
+					95,
+					1.25,
+					98,
+					1.25,
+					100,
+					1.25,
+					103,
+					0.498,
+					104,
+					1.25,
+					117,
+					0.26,
+					118,
+					0.124,
+					124,
+					1.25,
+					125,
+					1.98,
+					126,
+					0.77,
+					127,
+					1.98,
+					128,
+					0.77,
+					129,
+					1.98,
+					130,
+					1.25,
+					131,
+					1.98,
+					132,
+					1.98,
+					133,
+					1.98,
+					134,
+					1.98,
+					135,
+					1.25,
+					136,
+					1.98,
+					137,
+					1.25
+				]
+			],
+			[
+				"title/_topbar.md",
+				[
+					0,
+					4.157,
+					1,
+					3.677,
+					2,
+					3.939
+				]
+			],
+			[
+				"module/_topbar.md",
+				[
+					0,
+					2.209,
+					1,
+					1.954,
+					2,
+					2.094
+				]
+			],
+			[
+				"group/_topbar.md",
+				[]
+			],
+			[
+				"body/_topbar.md",
+				[
+					0,
+					0.735,
+					1,
+					0.651,
+					2,
+					0.697,
+					8,
+					0.123,
+					117,
+					0.303,
+					118,
+					0.145,
+					137,
+					1.457,
+					138,
+					2.307
+				]
+			],
+			[
+				"title/api.md",
+				[
+					117,
+					2.013,
+					118,
+					0.961
+				]
+			],
+			[
+				"module/api.md",
+				[
+					0,
+					2.209,
+					1,
+					1.954,
+					2,
+					2.094
+				]
+			],
+			[
+				"group/api.md",
+				[]
+			],
+			[
+				"body/api.md",
+				[
+					0,
+					0.66,
+					2,
+					0.579,
+					3,
+					0.354,
+					4,
+					0.353,
+					5,
+					0.529,
+					6,
+					0.536,
+					7,
+					0.556,
+					8,
+					0.111,
+					9,
+					0.354,
+					11,
+					0.353,
+					13,
+					0.521,
+					14,
+					0.473,
+					15,
+					0.529,
+					19,
+					0.29,
+					20,
+					0.398,
+					21,
+					0.29,
+					24,
+					0.353,
+					25,
+					0.353,
+					26,
+					0.544,
+					29,
+					0.573,
+					30,
+					1.077,
+					34,
+					0.887,
+					35,
+					0.851,
+					36,
+					0.353,
+					37,
+					0.353,
+					38,
+					0.883,
+					39,
+					0.883,
+					40,
+					1.211,
+					41,
+					0.663,
+					42,
+					0.663,
+					43,
+					0.29,
+					44,
+					0.573,
+					45,
+					1.003,
+					46,
+					0.353,
+					47,
+					1.077,
+					48,
+					0.454,
+					49,
+					0.663,
+					50,
+					1.071,
+					51,
+					0.887,
+					54,
+					0.851,
+					55,
+					0.489,
+					56,
+					1.211,
+					58,
+					0.939,
+					59,
+					0.851,
+					61,
+					0.626,
+					62,
+					0.959,
+					63,
+					0.29,
+					67,
+					0.663,
+					68,
+					0.29,
+					69,
+					0.188,
+					70,
+					0.29,
+					71,
+					0.573,
+					72,
+					0.353,
+					74,
+					0.354,
+					75,
+					0.29,
+					76,
+					0.663,
+					77,
+					0.573,
+					80,
+					0.353,
+					81,
+					0.398,
+					84,
+					0.353,
+					87,
+					0.544,
+					90,
+					0.29,
+					92,
+					0.573,
+					93,
+					0.544,
+					103,
+					0.43,
+					107,
+					0.883,
+					109,
+					0.573,
+					114,
+					0.573,
+					115,
+					0.915,
+					117,
+					0.252,
+					118,
+					0.057,
+					119,
+					0.573,
+					120,
+					1.077,
+					121,
+					0.745,
+					123,
+					0.544,
+					126,
+					0.939,
+					128,
+					0.544,
+					130,
+					0.573,
+					135,
+					0.573,
+					139,
+					0.907,
+					140,
+					1.706,
+					141,
+					2.188,
+					142,
+					1.398,
+					143,
+					0.883,
+					144,
+					1.44,
+					145,
+					1.398,
+					146,
+					1.706,
+					147,
+					0.883,
+					148,
+					0.907,
+					149,
+					0.573,
+					150,
+					0.907,
+					151,
+					0.907,
+					152,
+					1.44,
+					153,
+					0.573,
+					154,
+					0.573,
+					155,
+					0.883,
+					156,
+					1.398,
+					157,
+					0.907,
+					158,
+					0.907,
+					159,
+					0.907,
+					160,
+					1.398,
+					161,
+					0.907,
+					162,
+					0.573,
+					163,
+					0.907,
+					164,
+					0.907,
+					165,
+					0.573,
+					166,
+					0.907,
+					167,
+					1.917,
+					168,
+					1.917,
+					169,
+					1.398,
+					170,
+					1.706,
+					171,
+					1.706,
+					172,
+					0.907,
+					173,
+					0.907,
+					174,
+					1.077,
+					175,
+					0.573,
+					176,
+					0.907,
+					177,
+					0.907,
+					178,
+					1.398,
+					179,
+					0.907,
+					180,
+					1.398,
+					181,
+					0.907,
+					182,
+					0.907,
+					183,
+					1.398,
+					184,
+					0.907,
+					185,
+					1.077,
+					186,
+					1.398,
+					187,
+					1.398,
+					188,
+					1.398,
+					189,
+					0.907,
+					190,
+					1.211,
+					191,
+					0.907,
+					192,
+					0.907,
+					193,
+					0.907,
+					194,
+					0.907,
+					195,
+					0.907,
+					196,
+					1.398,
+					197,
+					0.907,
+					198,
+					0.907,
+					199,
+					0.907,
+					200,
+					0.907,
+					201,
+					1.398,
+					202,
+					0.907,
+					203,
+					0.907,
+					204,
+					0.907,
+					205,
+					0.907,
+					206,
+					1.398,
+					207,
+					0.907,
+					208,
+					0.907,
+					209,
+					0.907,
+					210,
+					1.398,
+					211,
+					1.398,
+					212,
+					2.511,
+					213,
+					1.398,
+					214,
+					0.907,
+					215,
+					0.907,
+					216,
+					0.907,
+					217,
+					0.907,
+					218,
+					0.907,
+					219,
+					0.907,
+					220,
+					0.907,
+					221,
+					1.398,
+					222,
+					0.907,
+					223,
+					0.907,
+					224,
+					0.907,
+					225,
+					1.398,
+					226,
+					0.907,
+					227,
+					0.907,
+					228,
+					0.907,
+					229,
+					0.907,
+					230,
+					0.573,
+					231,
+					0.907,
+					232,
+					1.398,
+					233,
+					0.907,
+					234,
+					1.398,
+					235,
+					1.398,
+					236,
+					1.398,
+					237,
+					0.907,
+					238,
+					0.907,
+					239,
+					0.907,
+					240,
+					1.077,
+					241,
+					0.907,
+					242,
+					0.907,
+					243,
+					0.907,
+					244,
+					0.907,
+					245,
+					0.907,
+					246,
+					0.907,
+					247,
+					0.907,
+					248,
+					0.907,
+					249,
+					0.907,
+					250,
+					0.883,
+					251,
+					0.907,
+					252,
+					0.573,
+					253,
+					0.573,
+					254,
+					0.907,
+					255,
+					0.907,
+					256,
+					0.573,
+					257,
+					1.077,
+					258,
+					0.907,
+					259,
+					0.907,
+					260,
+					1.398,
+					261,
+					1.398,
+					262,
+					0.907,
+					263,
+					0.573
+				]
+			],
+			[
+				"title/configuration.md",
+				[
+					8,
+					0.818,
+					117,
+					2.013
+				]
+			],
+			[
+				"module/configuration.md",
+				[
+					0,
+					2.209,
+					1,
+					1.954,
+					2,
+					2.094
+				]
+			],
+			[
+				"group/configuration.md",
+				[]
+			],
+			[
+				"body/configuration.md",
+				[
+					0,
+					0.616,
+					3,
+					0.47,
+					5,
+					0.339,
+					6,
+					0.339,
+					7,
+					0.539,
+					8,
+					0.121,
+					9,
+					0.507,
+					12,
+					0.433,
+					13,
+					0.558,
+					14,
+					0.441,
+					15,
+					0.441,
+					17,
+					1.031,
+					19,
+					0.231,
+					20,
+					0.441,
+					21,
+					0.231,
+					25,
+					0.433,
+					26,
+					0.433,
+					34,
+					0.433,
+					35,
+					0.751,
+					36,
+					0.433,
+					37,
+					0.433,
+					41,
+					0.751,
+					42,
+					0.433,
+					43,
+					0.231,
+					45,
+					1.046,
+					46,
+					0.751,
+					48,
+					0.401,
+					49,
+					0.433,
+					50,
+					0.974,
+					52,
+					1.494,
+					54,
+					0.433,
+					55,
+					0.231,
+					58,
+					0.433,
+					59,
+					0.433,
+					60,
+					1.22,
+					61,
+					0.628,
+					62,
+					0.95,
+					63,
+					0.231,
+					67,
+					0.433,
+					68,
+					0.339,
+					69,
+					0.231,
+					70,
+					0.231,
+					72,
+					0.433,
+					74,
+					0.339,
+					75,
+					0.339,
+					76,
+					0.635,
+					80,
+					0.433,
+					81,
+					0.539,
+					82,
+					1.031,
+					84,
+					0.433,
+					85,
+					0.635,
+					86,
+					0.433,
+					87,
+					0.635,
+					88,
+					0.433,
+					90,
+					0.231,
+					93,
+					0.433,
+					94,
+					1.031,
+					103,
+					0.231,
+					115,
+					0.95,
+					116,
+					0.704,
+					117,
+					0.147,
+					121,
+					0.95,
+					123,
+					0.635,
+					124,
+					1.343,
+					126,
+					0.88,
+					128,
+					0.433,
+					143,
+					0.704,
+					144,
+					1.429,
+					147,
+					0.704,
+					149,
+					1.22,
+					152,
+					1.343,
+					153,
+					0.704,
+					154,
+					0.704,
+					155,
+					0.704,
+					162,
+					0.704,
+					165,
+					1.031,
+					174,
+					1.031,
+					175,
+					0.704,
+					185,
+					0.704,
+					190,
+					1.031,
+					230,
+					0.704,
+					240,
+					0.704,
+					250,
+					1.031,
+					252,
+					0.704,
+					253,
+					0.704,
+					256,
+					0.704,
+					257,
+					0.704,
+					263,
+					1.614,
+					264,
+					1.114,
+					265,
+					1.632,
+					266,
+					2.126,
+					267,
+					2.365,
+					268,
+					2.126,
+					269,
+					1.632,
+					270,
+					1.931,
+					271,
+					1.632,
+					272,
+					1.632,
+					273,
+					1.632,
+					274,
+					1.114,
+					275,
+					1.114,
+					276,
+					1.632,
+					277,
+					1.632,
+					278,
+					1.632,
+					279,
+					1.114,
+					280,
+					1.114,
+					281,
+					1.114,
+					282,
+					1.114,
+					283,
+					1.114,
+					284,
+					1.114,
+					285,
+					1.114,
+					286,
+					1.114,
+					287,
+					1.931,
+					288,
+					1.114,
+					289,
+					1.114,
+					290,
+					1.114,
+					291,
+					1.114,
+					292,
+					1.114,
+					293,
+					1.632,
+					294,
+					1.114,
+					295,
+					1.114,
+					296,
+					1.114,
+					297,
+					1.114,
+					298,
+					1.114,
+					299,
+					1.114,
+					300,
+					1.114,
+					301,
+					1.114,
+					302,
+					1.632,
+					303,
+					1.114,
+					304,
+					1.114,
+					305,
+					1.114,
+					306,
+					1.114,
+					307,
+					1.114,
+					308,
+					1.114,
+					309,
+					1.114,
+					310,
+					1.114
+				]
+			]
+		],
+		"invertedIndex": [
+			[
+				"",
+				{
+					"_index": 61,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"2",
+				{
+					"_index": 67,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"actual",
+				{
+					"_index": 193,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"add",
+				{
+					"_index": 170,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"address",
+				{
+					"_index": 52,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"affect",
+				{
+					"_index": 157,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"against",
+				{
+					"_index": 298,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"align",
+				{
+					"_index": 302,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"allow",
+				{
+					"_index": 270,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"anoth",
+				{
+					"_index": 229,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"api",
+				{
+					"_index": 118,
+					"title": {
+						"api.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"_topbar.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"appli",
+				{
+					"_index": 107,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"applic",
+				{
+					"_index": 11,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"approach",
+				{
+					"_index": 307,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"array",
+				{
+					"_index": 87,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"attribut",
+				{
+					"_index": 258,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"auto",
+				{
+					"_index": 246,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"automat",
+				{
+					"_index": 93,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"avail",
+				{
+					"_index": 163,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"base",
+				{
+					"_index": 53,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"basic",
+				{
+					"_index": 83,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"befor",
+				{
+					"_index": 171,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"behavior",
+				{
+					"_index": 136,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"beyond",
+				{
+					"_index": 102,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"bind",
+				{
+					"_index": 116,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"bodi",
+				{
+					"_index": 269,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"boolean",
+				{
+					"_index": 263,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"border",
+				{
+					"_index": 275,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"both",
+				{
+					"_index": 306,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"box",
+				{
+					"_index": 134,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"browser",
+				{
+					"_index": 32,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"build",
+				{
+					"_index": 29,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"built",
+				{
+					"_index": 48,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"call",
+				{
+					"_index": 58,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"cell",
+				{
+					"_index": 59,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"chang",
+				{
+					"_index": 55,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"changehandler(pchangedata",
+				{
+					"_index": 216,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"charact",
+				{
+					"_index": 260,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"check",
+				{
+					"_index": 218,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"class",
+				{
+					"_index": 51,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"clone",
+				{
+					"_index": 153,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"code",
+				{
+					"_index": 101,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"column",
+				{
+					"_index": 13,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"columnschema",
+				{
+					"_index": 159,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"complet",
+				{
+					"_index": 119,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"comput",
+				{
+					"_index": 104,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"config",
+				{
+					"_index": 98,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"configur",
+				{
+					"_index": 8,
+					"title": {
+						"configuration.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"_topbar.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"connect",
+				{
+					"_index": 196,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"connecttuigridprototype(ptuigridprototyp",
+				{
+					"_index": 244,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"constructor",
+				{
+					"_index": 140,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"contain",
+				{
+					"_index": 123,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"content",
+				{
+					"_index": 289,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"creat",
+				{
+					"_index": 26,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"css",
+				{
+					"_index": 284,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"currenc",
+				{
+					"_index": 100,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"current",
+				{
+					"_index": 214,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"custom",
+				{
+					"_index": 74,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"customconfiguregridset",
+				{
+					"_index": 203,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"customeditor",
+				{
+					"_index": 172,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"customformatt",
+				{
+					"_index": 166,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"customhead",
+				{
+					"_index": 173,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"cycl",
+				{
+					"_index": 191,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"data",
+				{
+					"_index": 9,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"date",
+				{
+					"_index": 70,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"dateformatt",
+				{
+					"_index": 181,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"datepick",
+				{
+					"_index": 305,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"dayj",
+				{
+					"_index": 72,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"decim",
+				{
+					"_index": 68,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"deep",
+				{
+					"_index": 147,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"default",
+				{
+					"_index": 144,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"defin",
+				{
+					"_index": 12,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"deleg",
+				{
+					"_index": 192,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"descript",
+				{
+					"_index": 62,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"destin",
+				{
+					"_index": 288,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"digit",
+				{
+					"_index": 132,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"direct",
+				{
+					"_index": 232,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"directli",
+				{
+					"_index": 158,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"discount",
+				{
+					"_index": 108,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"discov",
+				{
+					"_index": 247,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"display",
+				{
+					"_index": 124,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"document",
+				{
+					"_index": 122,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"dollar",
+				{
+					"_index": 64,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"dom",
+				{
+					"_index": 39,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"dot",
+				{
+					"_index": 291,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"drag",
+				{
+					"_index": 272,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"driven",
+				{
+					"_index": 130,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"dropdown",
+				{
+					"_index": 86,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"dure",
+				{
+					"_index": 188,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"e.g",
+				{
+					"_index": 65,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"each",
+				{
+					"_index": 190,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"edit",
+				{
+					"_index": 19,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"editor",
+				{
+					"_index": 14,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"editornumb",
+				{
+					"_index": 252,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"editortext",
+				{
+					"_index": 256,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"effect",
+				{
+					"_index": 309,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"element",
+				{
+					"_index": 38,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"empti",
+				{
+					"_index": 280,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"enabl",
+				{
+					"_index": 60,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"enforc",
+				{
+					"_index": 253,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"ensur",
+				{
+					"_index": 179,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"entir",
+				{
+					"_index": 131,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"entri",
+				{
+					"_index": 300,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"event",
+				{
+					"_index": 56,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"exampl",
+				{
+					"_index": 94,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"explicitli",
+				{
+					"_index": 245,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"extend",
+				{
+					"_index": 24,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"extens",
+				{
+					"_index": 135,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"fabl",
+				{
+					"_index": 142,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"fallback",
+				{
+					"_index": 295,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"find",
+				{
+					"_index": 197,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"first",
+				{
+					"_index": 40,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"fix",
+				{
+					"_index": 301,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"flag",
+				{
+					"_index": 178,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"folder",
+				{
+					"_index": 97,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"format",
+				{
+					"_index": 63,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"formatt",
+				{
+					"_index": 15,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"four",
+				{
+					"_index": 169,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"frozen",
+				{
+					"_index": 273,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"full",
+				{
+					"_index": 149,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"function",
+				{
+					"_index": 49,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"github",
+				{
+					"_index": 137,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {},
+						"_topbar.md": {}
+					}
+				}
+			],
+			[
+				"grid",
+				{
+					"_index": 7,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"grid'",
+				{
+					"_index": 239,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"griddata",
+				{
+					"_index": 151,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"gridset",
+				{
+					"_index": 161,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"guard",
+				{
+					"_index": 177,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"handler",
+				{
+					"_index": 207,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"hash",
+				{
+					"_index": 286,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"header",
+				{
+					"_index": 174,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"height",
+				{
+					"_index": 268,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"here",
+				{
+					"_index": 156,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"hide",
+				{
+					"_index": 175,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"hook",
+				{
+					"_index": 204,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"horizont",
+				{
+					"_index": 276,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"html",
+				{
+					"_index": 27,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"html5",
+				{
+					"_index": 257,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"identifi",
+				{
+					"_index": 146,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"implement",
+				{
+					"_index": 217,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"includ",
+				{
+					"_index": 96,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"incom",
+				{
+					"_index": 211,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"initi",
+				{
+					"_index": 34,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"initializecustomformatt",
+				{
+					"_index": 248,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"initialrendercomplet",
+				{
+					"_index": 176,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"input",
+				{
+					"_index": 76,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"instanc",
+				{
+					"_index": 54,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"instanti",
+				{
+					"_index": 205,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"instead",
+				{
+					"_index": 231,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"integr",
+				{
+					"_index": 21,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"interact",
+				{
+					"_index": 18,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"intercept",
+				{
+					"_index": 209,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"invalid",
+				{
+					"_index": 243,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"inventori",
+				{
+					"_index": 99,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"invoic",
+				{
+					"_index": 110,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"item",
+				{
+					"_index": 200,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"json",
+				{
+					"_index": 16,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"key",
+				{
+					"_index": 240,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"keystrok",
+				{
+					"_index": 254,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"learn",
+				{
+					"_index": 113,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"left",
+				{
+					"_index": 274,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"length",
+				{
+					"_index": 261,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"lifecycl",
+				{
+					"_index": 183,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"line",
+				{
+					"_index": 105,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"list",
+				{
+					"_index": 199,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"listen",
+				{
+					"_index": 202,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"live",
+				{
+					"_index": 129,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"load",
+				{
+					"_index": 42,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"logic",
+				{
+					"_index": 109,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"look",
+				{
+					"_index": 228,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"main",
+				{
+					"_index": 195,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"map",
+				{
+					"_index": 47,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"mark",
+				{
+					"_index": 89,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"marshal",
+				{
+					"_index": 127,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"max",
+				{
+					"_index": 255,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"maximum",
+				{
+					"_index": 262,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"maxlength",
+				{
+					"_index": 79,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"merg",
+				{
+					"_index": 143,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"method",
+				{
+					"_index": 120,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"minimum",
+				{
+					"_index": 250,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"minlength",
+				{
+					"_index": 78,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"mode",
+				{
+					"_index": 282,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"modifi",
+				{
+					"_index": 206,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"more",
+				{
+					"_index": 114,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"mount",
+				{
+					"_index": 165,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"mutabl",
+				{
+					"_index": 215,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"mutat",
+				{
+					"_index": 155,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"name",
+				{
+					"_index": 46,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"nativ",
+				{
+					"_index": 84,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"new",
+				{
+					"_index": 220,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"notat",
+				{
+					"_index": 292,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"number",
+				{
+					"_index": 81,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"object",
+				{
+					"_index": 126,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"on",
+				{
+					"_index": 92,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"onafterinitialrend",
+				{
+					"_index": 194,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"onafterrender(prender",
+				{
+					"_index": 189,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"onbeforeiniti",
+				{
+					"_index": 184,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"onc",
+				{
+					"_index": 180,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"open",
+				{
+					"_index": 31,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"oper",
+				{
+					"_index": 182,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"option",
+				{
+					"_index": 115,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"out",
+				{
+					"_index": 133,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"output",
+				{
+					"_index": 251,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"overrid",
+				{
+					"_index": 103,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"overview",
+				{
+					"_index": 138,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_topbar.md": {}
+					}
+				}
+			],
+			[
+				"page",
+				{
+					"_index": 28,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"paramet",
+				{
+					"_index": 141,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"pass",
+				{
+					"_index": 162,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"pattern",
+				{
+					"_index": 77,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"pcellvaluetoset",
+				{
+					"_index": 225,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"picker",
+				{
+					"_index": 88,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"pict",
+				{
+					"_index": 0,
+					"title": {
+						"README.md": {},
+						"_cover.md": {},
+						"_topbar.md": {}
+					},
+					"module": {
+						"README.md": {},
+						"_cover.md": {},
+						"_topbar.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"_topbar.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"pictsectiontuigrid",
+				{
+					"_index": 139,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"pixel",
+				{
+					"_index": 267,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"place",
+				{
+					"_index": 36,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"placehold",
+				{
+					"_index": 37,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"plookupcolumn",
+				{
+					"_index": 227,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"plookupvalu",
+				{
+					"_index": 226,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"point",
+				{
+					"_index": 17,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"popul",
+				{
+					"_index": 168,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"post",
+				{
+					"_index": 221,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"pre",
+				{
+					"_index": 167,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"prechangehandler(pchangedata",
+				{
+					"_index": 208,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"precis",
+				{
+					"_index": 69,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"preserv",
+				{
+					"_index": 223,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"prevent",
+				{
+					"_index": 299,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"previou",
+				{
+					"_index": 222,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"process",
+				{
+					"_index": 44,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"properti",
+				{
+					"_index": 121,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"prototyp",
+				{
+					"_index": 187,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"provid",
+				{
+					"_index": 296,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"prowkey",
+				{
+					"_index": 238,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"quick",
+				{
+					"_index": 22,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"real",
+				{
+					"_index": 111,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"receiv",
+				{
+					"_index": 249,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"refer",
+				{
+					"_index": 117,
+					"title": {
+						"api.md": {},
+						"configuration.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"_topbar.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"refresh",
+				{
+					"_index": 233,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"regex",
+				{
+					"_index": 259,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"regist",
+				{
+					"_index": 25,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"render",
+				{
+					"_index": 35,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"reorder",
+				{
+					"_index": 281,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"replac",
+				{
+					"_index": 160,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"requir",
+				{
+					"_index": 80,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"resiz",
+				{
+					"_index": 271,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"resolut",
+				{
+					"_index": 297,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"resolv",
+				{
+					"_index": 41,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"return",
+				{
+					"_index": 241,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"round",
+				{
+					"_index": 66,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"row",
+				{
+					"_index": 152,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"run",
+				{
+					"_index": 30,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"same",
+				{
+					"_index": 308,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"sampl",
+				{
+					"_index": 294,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"schema",
+				{
+					"_index": 43,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"scroll",
+				{
+					"_index": 277,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"search",
+				{
+					"_index": 236,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"section",
+				{
+					"_index": 1,
+					"title": {
+						"README.md": {},
+						"_cover.md": {},
+						"_topbar.md": {}
+					},
+					"module": {
+						"README.md": {},
+						"_cover.md": {},
+						"_topbar.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"_topbar.md": {}
+					}
+				}
+			],
+			[
+				"see",
+				{
+					"_index": 148,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"select",
+				{
+					"_index": 85,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"selector",
+				{
+					"_index": 285,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"sensibl",
+				{
+					"_index": 264,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"servic",
+				{
+					"_index": 145,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"set",
+				{
+					"_index": 185,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"setgridvalue(pcellcolumntobeset",
+				{
+					"_index": 224,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"setgridvaluebyrowkey(pcellcolumntobeset",
+				{
+					"_index": 237,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"shorthand",
+				{
+					"_index": 82,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"show",
+				{
+					"_index": 279,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"singl",
+				{
+					"_index": 310,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"solver",
+				{
+					"_index": 20,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"sourc",
+				{
+					"_index": 154,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"space",
+				{
+					"_index": 293,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"start",
+				{
+					"_index": 23,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"string",
+				{
+					"_index": 45,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"string/fals",
+				{
+					"_index": 290,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"string/funct",
+				{
+					"_index": 303,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"string/numb",
+				{
+					"_index": 265,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"string/object",
+				{
+					"_index": 304,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"subclass",
+				{
+					"_index": 201,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"success",
+				{
+					"_index": 242,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"support",
+				{
+					"_index": 73,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"tabl",
+				{
+					"_index": 10,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"tabular",
+				{
+					"_index": 125,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"target",
+				{
+					"_index": 198,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"targetel",
+				{
+					"_index": 164,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"templat",
+				{
+					"_index": 287,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"text",
+				{
+					"_index": 75,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"time",
+				{
+					"_index": 112,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"toast",
+				{
+					"_index": 5,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"total",
+				{
+					"_index": 106,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"transform",
+				{
+					"_index": 210,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"trigger",
+				{
+					"_index": 90,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"tuigrid",
+				{
+					"_index": 2,
+					"title": {
+						"README.md": {},
+						"_cover.md": {},
+						"_topbar.md": {}
+					},
+					"module": {
+						"README.md": {},
+						"_cover.md": {},
+						"_topbar.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"_topbar.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"tuigridchangeev",
+				{
+					"_index": 213,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"two",
+				{
+					"_index": 95,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"type",
+				{
+					"_index": 50,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"ui",
+				{
+					"_index": 6,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"uniqu",
+				{
+					"_index": 283,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"until",
+				{
+					"_index": 150,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"up",
+				{
+					"_index": 186,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"updat",
+				{
+					"_index": 234,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"us",
+				{
+					"_index": 230,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"user",
+				{
+					"_index": 91,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"valid",
+				{
+					"_index": 128,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"valu",
+				{
+					"_index": 212,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"vertic",
+				{
+					"_index": 278,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"via",
+				{
+					"_index": 71,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"view",
+				{
+					"_index": 3,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"whether",
+				{
+					"_index": 219,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"width",
+				{
+					"_index": 266,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"wire",
+				{
+					"_index": 57,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"work",
+				{
+					"_index": 33,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"wrap",
+				{
+					"_index": 4,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"write",
+				{
+					"_index": 235,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			]
+		],
 		"pipeline": [
 			"stemmer"
 		]
 	},
-	"Documents": {}
+	"Documents": {
+		"README.md": {
+			"Title": "Pict Section TuiGrid",
+			"Module": "pict-section-tuigrid",
+			"Group": "",
+			"DocPath": "README.md"
+		},
+		"_cover.md": {
+			"Title": "Pict Section TuiGrid",
+			"Module": "pict-section-tuigrid",
+			"Group": "",
+			"DocPath": "_cover.md"
+		},
+		"_topbar.md": {
+			"Title": "Pict Section TuiGrid",
+			"Module": "pict-section-tuigrid",
+			"Group": "",
+			"DocPath": "_topbar.md"
+		},
+		"api.md": {
+			"Title": "API Reference",
+			"Module": "pict-section-tuigrid",
+			"Group": "",
+			"DocPath": "api.md"
+		},
+		"configuration.md": {
+			"Title": "Configuration Reference",
+			"Module": "pict-section-tuigrid",
+			"Group": "",
+			"DocPath": "configuration.md"
+		}
+	}
 }
