@@ -10,6 +10,16 @@
 	},
 	"author": "steven velozo <steven@velozo.com>",
 	"license": "MIT",
+	"retold":
+	{
+		"ExampleApplication":
+		{
+			"Stage": true,
+			"Title": "Inventory Grid",
+			"Summary": "Config-only inventory table with frozen first column, validated EditorText, address-resolved select dropdown, currency and date formatters, and solver triggers.",
+			"Complexity": "Intermediate"
+		}
+	},
 	"copyFilesSettings":
 	{
 		"whenFileExists": "overwrite"

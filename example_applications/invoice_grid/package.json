@@ -10,6 +10,16 @@
 	},
 	"author": "steven velozo <steven@velozo.com>",
 	"license": "MIT",
+	"retold":
+	{
+		"ExampleApplication":
+		{
+			"Stage": true,
+			"Title": "Invoice Grid",
+			"Summary": "Custom data marshaling: preChangeHandler clamps and rounds input, changeHandler recomputes line totals and applies a discount rule, plus a custom formatter and DOM writes outside the grid.",
+			"Complexity": "Advanced"
+		}
+	},
 	"copyFilesSettings":
 	{
 		"whenFileExists": "overwrite"

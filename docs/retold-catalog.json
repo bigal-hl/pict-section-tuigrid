@@ -1,5 +1,5 @@
 {
-	"Generated": "2026-05-22T05:46:13.858Z",
+	"Generated": "2026-05-23T01:49:47.340Z",
 	"Mode": "module",
 	"GitHubOrg": "stevenvelozo",
 	"DefaultBranch": "master",
@@ -34,31 +34,48 @@
 				]
 			},
 			{
+				"Title": "Examples",
+				"Children": [
+					{
+						"Title": "Class Grid",
+						"Path": "examples/class_grid/README.md"
+					},
+					{
+						"Title": "Inventory Grid",
+						"Path": "examples/inventory_grid/README.md"
+					},
+					{
+						"Title": "Invoice Grid",
+						"Path": "examples/invoice_grid/README.md"
+					}
+				]
+			},
+			{
 				"Title": "Retold Ecosystem",
 				"Children": [
 					{
 						"Title": "Pict",
-						"Path": "pict/pict/README.md"
+						"Path": "https://stevenvelozo.github.io/pict/README.md"
 					},
 					{
 						"Title": "Pict Application",
-						"Path": "pict/pict-application/README.md"
+						"Path": "https://stevenvelozo.github.io/pict-application/README.md"
 					},
 					{
 						"Title": "Pict View",
-						"Path": "pict/pict-view/README.md"
+						"Path": "https://stevenvelozo.github.io/pict-view/README.md"
 					},
 					{
 						"Title": "Pict Provider",
-						"Path": "pict/pict-provider/README.md"
+						"Path": "https://stevenvelozo.github.io/pict-provider/README.md"
 					},
 					{
 						"Title": "Fable",
-						"Path": "fable/fable/README.md"
+						"Path": "https://stevenvelozo.github.io/fable/README.md"
 					},
 					{
 						"Title": "Indoctrinate",
-						"Path": "utility/indoctrinate/README.md"
+						"Path": "https://stevenvelozo.github.io/indoctrinate/README.md"
 					}
 				]
 			}
@@ -73,6 +90,16 @@
 			"_version.json",
 			"api.md",
 			"configuration.md",
+			"examples/README.md",
+			"examples/class_grid/README.md",
+			"examples/class_grid/index.html",
+			"examples/class_grid/simple_grid.min.js",
+			"examples/inventory_grid/README.md",
+			"examples/inventory_grid/index.html",
+			"examples/inventory_grid/inventory_grid.min.js",
+			"examples/invoice_grid/README.md",
+			"examples/invoice_grid/index.html",
+			"examples/invoice_grid/invoice_grid.min.js",
 			"index.html",
 			"retold-catalog.json",
 			"retold-keyword-index.json"

@@ -9,6 +9,14 @@
     },
     "author": "steven",
     "license": "MIT",
+    "retold": {
+        "ExampleApplication": {
+            "Stage": true,
+            "Title": "Class Grid",
+            "Summary": "The minimum-viable TuiGrid: ten student records edited via text, select, number, and date-picker editors with currency formatting and solver triggers.",
+            "Complexity": "Basic"
+        }
+    },
     "copyFilesSettings": {
         "whenFileExists": "overwrite"
     },
