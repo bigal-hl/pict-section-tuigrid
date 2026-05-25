@@ -1,0 +1,14 @@
+{
+	"Employees":
+	[
+		{ "idrecord": 1, "name": "Ada Lovelace",      "department": "Engineering", "title": "Principal Engineer", "salary": 185000.00, "startdate": "2019-04-15" },
+		{ "idrecord": 2, "name": "Grace Hopper",      "department": "Engineering", "title": "Compiler Architect", "salary": 175000.00, "startdate": "2017-08-01" },
+		{ "idrecord": 3, "name": "Hedy Lamarr",       "department": "Design",      "title": "Lead Designer",      "salary": 142000.50, "startdate": "2020-11-09" },
+		{ "idrecord": 4, "name": "Mae Jemison",       "department": "Operations",  "title": "Director of Ops",    "salary": 168500.00, "startdate": "2018-02-22" },
+		{ "idrecord": 5, "name": "Katherine Johnson", "department": "Engineering", "title": "Senior Engineer",    "salary": 158000.00, "startdate": "2021-06-30" },
+		{ "idrecord": 6, "name": "Annie Easley",      "department": "Engineering", "title": "Staff Engineer",     "salary": 148750.25, "startdate": "2022-01-10" },
+		{ "idrecord": 7, "name": "Dorothy Vaughan",   "department": "Operations",  "title": "Operations Manager", "salary": 132000.00, "startdate": "2019-09-17" },
+		{ "idrecord": 8, "name": "Sally Ride",        "department": "Sales",       "title": "VP Sales",           "salary": 196000.00, "startdate": "2016-05-03" },
+		{ "idrecord": 9, "name": "Jean Bartik",       "department": "Design",      "title": "UX Researcher",      "salary": 121500.75, "startdate": "2023-03-28" }
+	]
+}

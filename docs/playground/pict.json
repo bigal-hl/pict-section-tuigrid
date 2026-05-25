@@ -1,0 +1,39 @@
+{
+	"Product": "TuiGridPlayground",
+	"TuiGridViewConfig":
+	{
+		"TargetElementAddress":      "#Section-Playground-Mount",
+		"GridDataAddress":           "AppData.Employees",
+		"GridRowHeight":             32,
+		"GridColumnFrozenCount":     1,
+		"GridColumnWidthResizable":  true,
+		"TuiColumnSchema":
+		[
+			{ "header": "ID",         "name": "idrecord",   "width": 60,  "align": "right" },
+			{ "header": "Name",       "name": "name",       "editor": "text" },
+			{ "header": "Department", "name": "department", "editor":
+				{
+					"type": "select",
+					"options":
+					{
+						"listItems":
+						[
+							{ "value": "Engineering", "text": "Engineering" },
+							{ "value": "Design",      "text": "Design" },
+							{ "value": "Operations",  "text": "Operations" },
+							{ "value": "Sales",       "text": "Sales" }
+						]
+					}
+				}
+			},
+			{ "header": "Title",      "name": "title",      "editor": "text" },
+			{ "header": "Salary",     "name": "salary",     "width": 110, "align": "right",
+				"formatter": "FormatterCurrencyNumber",
+				"editor": { "type": "EditorNumber", "options": { "decimalPrecision": 2 } }
+			},
+			{ "header": "Start Date", "name": "startdate",  "width": 130,
+				"editor": { "type": "datePicker", "options": { "format": "yyyy-MM-dd" } }
+			}
+		]
+	}
+}

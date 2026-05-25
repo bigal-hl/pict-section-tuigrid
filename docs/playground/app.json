@@ -1,0 +1,6 @@
+{
+	"Name": "TuiGrid Playground",
+	"Hash": "TuiGridPlayground",
+	"MainViewportViewIdentifier": "TuiGrid",
+	"AutoRenderMainViewportViewAfterInitialize": true
+}
