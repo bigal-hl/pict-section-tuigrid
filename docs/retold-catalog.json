@@ -1,7 +1,7 @@
 {
-	"Generated": "2026-05-23T01:49:47.340Z",
+	"Generated": "2026-05-26T18:24:55.559Z",
 	"Mode": "module",
-	"GitHubOrg": "stevenvelozo",
+	"GitHubOrg": "fable-retold",
 	"DefaultBranch": "master",
 	"Module": {
 		"Name": "pict-section-tuigrid",
@@ -85,6 +85,7 @@
 			"README.md",
 			"_brand.json",
 			"_cover.md",
+			"_playground.json",
 			"_sidebar.md",
 			"_topbar.md",
 			"_version.json",
@@ -101,6 +102,14 @@
 			"examples/invoice_grid/index.html",
 			"examples/invoice_grid/invoice_grid.min.js",
 			"index.html",
+			"playground/app.json",
+			"playground/appdata.json",
+			"playground/application.js",
+			"playground/pict.json",
+			"playground/runtime/pict-application.min.js",
+			"playground/runtime/pict-section-modal.min.js",
+			"playground/runtime/pict-section-tuigrid.min.js",
+			"playground/runtime/pict.min.js",
 			"retold-catalog.json",
 			"retold-keyword-index.json"
 		]
