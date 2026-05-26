@@ -17,14 +17,14 @@
     "types": "types/Pict-Section-TuiGrid.d.ts",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/stevenvelozo/pict-section-tuigrid.git"
+        "url": "git+https://github.com/fable-retold/pict-section-tuigrid.git"
     },
     "author": "steven velozo <steven@velozo.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/stevenvelozo/pict-section-tuigrid/issues"
+        "url": "https://github.com/fable-retold/pict-section-tuigrid/issues"
     },
-    "homepage": "https://github.com/stevenvelozo/pict-section-tuigrid#readme",
+    "homepage": "https://github.com/fable-retold/pict-section-tuigrid#readme",
     "devDependencies": {
         "bower": "^1.8.14",
         "browser-env": "^3.3.0",

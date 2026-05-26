@@ -158,5 +158,5 @@ Two working example applications are included in the `example_applications/` fol
 
 - [Configuration](configuration.md) -- Column schema, grid options, and data binding reference
 - [API Reference](api.md) -- Complete class method and property documentation
-- [Pict View](https://stevenvelozo.github.io/pict-view/) -- The base view class TuiGrid extends
-- [Pict Application](https://stevenvelozo.github.io/pict-application/) -- The application container
+- [Pict View](https://fable-retold.github.io/pict-view/) -- The base view class TuiGrid extends
+- [Pict Application](https://fable-retold.github.io/pict-application/) -- The application container
