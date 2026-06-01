@@ -18,7 +18,7 @@ Display and edit tabular data with the Toast UI Grid wrapped as a Pict view. Def
 <!-- docuserve:examples:start -->
 | Example | Complexity | Launch |
 |---------|------------|--------|
-| [Class Grid](examples/class%5Fgrid/README.md) | Basic | [&#9654; Launch](examples/class%5Fgrid/index.html) |
-| [Inventory Grid](examples/inventory%5Fgrid/README.md) | Intermediate | [&#9654; Launch](examples/inventory%5Fgrid/index.html) |
-| [Invoice Grid](examples/invoice%5Fgrid/README.md) | Advanced | [&#9654; Launch](examples/invoice%5Fgrid/index.html) |
+| [Class Grid](examples/class%5Fgrid/README.md) | Basic | [Launch](examples/class%5Fgrid/index.html) |
+| [Inventory Grid](examples/inventory%5Fgrid/README.md) | Intermediate | [Launch](examples/inventory%5Fgrid/index.html) |
+| [Invoice Grid](examples/invoice%5Fgrid/README.md) | Advanced | [Launch](examples/invoice%5Fgrid/index.html) |
 <!-- docuserve:examples:end -->

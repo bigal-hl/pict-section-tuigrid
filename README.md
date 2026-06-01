@@ -1,6 +1,6 @@
 # pict-section-tuigrid
 
-> **[&#9654; Read the Pict-Section-Tuigrid Documentation](https://fable-retold.github.io/pict-section-tuigrid/)** &mdash; interactive docs with the full API reference.
+> **[Read the Pict-Section-Tuigrid Documentation](https://fable-retold.github.io/pict-section-tuigrid/)** - interactive docs with the full API reference.
 
 Toast UI Grid Pict Section
 ## Related Packages
